@@ -29,7 +29,7 @@
   <h3>🌐 Socials</h3>
 
   <p align="left">
-    <a href="https://mahdi-porfolio.muntazirmahdi-dev.workers.dev/">
+    <a href="https://https://mahdi-porfolio.pages.dev//">
       <img src="https://img.shields.io/badge/Portfolio-29ff03?style=for-the-badge&logoColor=black&logo=googlechrome" />
     </a>
     <a href="https://github.com/mahdi-dev110">
@@ -103,18 +103,18 @@
 
 | Project | Type | Stack | Links |
 |---|---|---|---|
-| **Jawad Rajper — 3D Artist Portfolio** | 👔 Client | HTML · CSS · JS · GSAP · Canvas · Particles · 3D CSS | [View →](https://mahdi-porfolio.muntazirmahdi-dev.workers.dev/#projects) |
-| **Zakir Hussain — Video Editor Portfolio** | 👔 Client | HTML · CSS · JS · GSAP · Lenis · Swiper · EmailJS | [View →](https://mahdi-porfolio.muntazirmahdi-dev.workers.dev/#projects) |
+| **Jawad Rajper — 3D Artist Portfolio** | 👔 Client | HTML · CSS · JS · GSAP · Canvas · Particles · 3D CSS | [View →](https://https://mahdi-porfolio.pages.dev//#projects) |
+| **Zakir Hussain — Video Editor Portfolio** | 👔 Client | HTML · CSS · JS · GSAP · Lenis · Swiper · EmailJS | [View →](https://https://mahdi-porfolio.pages.dev//#projects) |
 | **MavioMahdi — Ecommerce Platform** | Personal | React · Redux Toolkit · React Router | [Live →](https://mahdi-ecommerce.vercel.app/) |
 | **Mahdi Restaurant — Food App** | Personal | React · React Router · CSS3 | [Live →](https://mahdi-restaurant.vercel.app/) |
-| **Mahdi Travels — Agency Landing Page** | Personal | HTML · CSS · JS · Booking Modal | [Live →](https://mahdi-porfolio.muntazirmahdi-dev.workers.dev/#projects) |
+| **Mahdi Travels — Agency Landing Page** | Personal | HTML · CSS · JS · Booking Modal | [Live →](https://https://mahdi-porfolio.pages.dev//#projects) |
 | **Mahdi's Hotel** | Personal | HTML · CSS · JS | [Live →](https://mahdi-dev110.github.io/Mahdis-Hotel/) |
 | **Mahdi Inkwell — Editorial Blog** | Personal | HTML · CSS · JS · AOS | [Live →](https://mahdi-dev110.github.io/Mahdi-inkwell/) |
 | **Mahdi Cuts — Video Editor Portfolio** | Personal | HTML · CSS · JS | [Live →](https://mahdi-cuts.muntazirmahdi-dev.workers.dev) |
-| **SecureAuth Login System** | Personal | HTML · CSS · JS | [Live →](https://mahdi-porfolio.muntazirmahdi-dev.workers.dev/#projects) |
-| **Mahdi Blog** | Personal | HTML · CSS · JS | [Live →](https://mahdi-porfolio.muntazirmahdi-dev.workers.dev/#projects) |
+| **SecureAuth Login System** | Personal | HTML · CSS · JS | [Live →](https://https://mahdi-porfolio.pages.dev//#projects) |
+| **Mahdi Blog** | Personal | HTML · CSS · JS | [Live →](https://https://mahdi-porfolio.pages.dev//#projects) |
 
-> 🔗 **See all projects + live demos on my [portfolio](https://mahdi-porfolio.muntazirmahdi-dev.workers.dev/)**
+> 🔗 **See all projects + live demos on my [portfolio](https://https://mahdi-porfolio.pages.dev//)**
 
 ---
 
@@ -145,5 +145,5 @@
 ---
 
 <div align="center">
-  <sub>Crafted with ⚡ by <strong>Mahdi</strong> · <a href="https://mahdi-porfolio.muntazirmahdi-dev.workers.dev/">mahdi-porfolio.muntazirmahdi-dev.workers.dev</a></sub>
+  <sub>Crafted with ⚡ by <strong>Mahdi</strong> · <a href="https://https://mahdi-porfolio.pages.dev//">https://mahdi-porfolio.pages.dev/</a></sub>
 </div>
